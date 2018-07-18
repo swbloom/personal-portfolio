@@ -7,7 +7,7 @@ body {
 h1 {
   line-height: 58px;
   font-size: 40px;
-  color: #042f64;
+  color: #fff;
 }
 
 h2 {
@@ -29,7 +29,7 @@ a {
 }
 
 .callout {
-  color: #f53465;
+  color: #E0FFFF;
 }
 
 .about-me .column:nth-of-type(2) {
@@ -42,6 +42,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: teal;
 }
 
 header h1 {
