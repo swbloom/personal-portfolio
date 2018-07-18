@@ -23,7 +23,7 @@ Here's some quick starter files you can use to build your personal website.
 - For a list of **basic CSS tags**, <a href="http://web.simmons.edu/~grabiner/comm244/weekthree/css-basic-properties.html">click here</a>.
 - For **photos**, check out <a href="https://unsplash.com/">unsplash</a>.
 - For **fonts**, check out <a href="https://fonts.google.com/">google fonts</a>!
-- For generating different **colour schemes**, check out <a href="https://coolors.co/app">coolors</a>!
+- For generating different **colour schemes**, check out <a href="https://coolors.co/app">coolors</a> or <a href="http://colours.neilorangepeel.com/">Neil Orange Peel</a>!
 - For **emojis** that you can use on your site, <a href="http://classic.getemoji.com/">click here</a>!
 
 ## After
