@@ -16,14 +16,13 @@ h2 {
   color: #042f64
 }
 
-
 p {
   font-size: 18px;
   color: #042f64;
   line-height: 27px;
   margin: 0;
   padding-bottom: 26px;
-} 
+}
 
 a {
   color: #f53465;
@@ -33,10 +32,9 @@ a {
   color: #E0FFFF;
 }
 
-
 .about-me .column:nth-of-type(2) {
   margin-left: 110px;
-} 
+}
 
 header {
   height: 80vh;
@@ -46,7 +44,6 @@ header {
   align-items: center;
   background-color: teal;
 }
-
 
 header h1 {
   max-width: 60%;
@@ -69,34 +66,22 @@ header h1 {
 
 .about-me {
   display: flex;
-  background: linear-gradient(rgba(249, 249, 250, 0.94),rgba(249, 249, 250, 0.94)),url(/images/about-background.jpg);
+  background: linear-gradient(rgba(249, 249, 250, 0.94),rgba(249, 249, 250, 0.94)),url(./images/about-background.jpg);
   background-size: cover;
   background-position: center center;
   padding-top: 142px;
-  padding-bottom: 142px; 
+  padding-bottom: 142px;
 }
-
 
 .about-me h2 {
   padding-bottom: 25px;
   margin-bottom: 0px;
-} 
-
-
+}
 
 .wrapper {
    padding-left: 190px;
    padding-right: 190px;
-}  
-
-@include media-breakpoint-only(xs) { 
- 
-  .wrapper {
-    padding-left: 0px;
-    padding-right: 0px;
- }  
-
- }
+}
 
 .back-arrow {
   position: absolute;
@@ -118,7 +103,6 @@ header h1 {
 .social-icon {
   margin-right: 10px;
 }
-
 
 @media screen and (max-width: 1300px) {
   .about-me {
